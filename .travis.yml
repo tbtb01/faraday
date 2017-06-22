@@ -18,6 +18,7 @@ matrix:
     - rvm: rbx-2
   fast_finish: true
 
+
 env:
   matrix:
     - SSL=no
